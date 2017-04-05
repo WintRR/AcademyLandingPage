@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
   def recipes
   end
+
+  def contact
+  end
 end
