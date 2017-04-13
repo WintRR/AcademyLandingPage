@@ -5,9 +5,6 @@ class PagesController < ApplicationController
   def results
   end
 
-  def recipes
-  end
-
   def contact
   end
 end
